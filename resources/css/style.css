@@ -430,7 +430,6 @@ button.white {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('resources/images/b7.jpg');
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -452,15 +451,6 @@ button.white {
     font-size: 15px;
 }
 
-#banner3 .banner-box2 {
-    background-image: url('resources/images/b4.jpg');
-
-}
-
-#banner3 .banner-box3 {
-    background-image: url('resources/images/b18.jpg');
-
-}
 
 #newsletter {
     display: flex;
