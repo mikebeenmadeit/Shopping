@@ -326,7 +326,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b2-2.jpg');
+    background-image: url('resources/images/b2-2.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -367,7 +367,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b17.jpg');
+    background-image: url('resources/images/b17.jpg');
     min-width: 655px;
     height: 50vh;
     background-size: cover;
@@ -378,7 +378,7 @@ body {
 
 #sm-banner .banner-box2 {
 
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b10.jpg');
+    background-image: url('resources/images/b10.jpg');
 
 }
 
@@ -430,7 +430,7 @@ button.white {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b7.jpg');
+    background-image: url('resources/images/b7.jpg');
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -453,12 +453,12 @@ button.white {
 }
 
 #banner3 .banner-box2 {
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b4.jpg');
+    background-image: url('resources/images/b4.jpg');
 
 }
 
 #banner3 .banner-box3 {
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b18.jpg');
+    background-image: url('resources/images/b18.jpg');
 
 }
 
@@ -467,7 +467,7 @@ button.white {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url('/Users/mike/Desktop/Full Stack projects/Ecommerce Website/resources/images/b14.jpg');
+    background-image: url('resources/images/b14.jpg');
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
